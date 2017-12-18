@@ -1,0 +1,2 @@
+# JSPractice
+JavaScripts Practice Repository
